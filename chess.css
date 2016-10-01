@@ -58,7 +58,7 @@ tr:nth-child(odd)>td:nth-child(odd):not(#pieces) {
 }
 
 tr:nth-child(odd)>td:nth-child(even):not(#pieces) {
-  background-image: url('art/field/fire-3.png');
+  background-image: url('art/field/fire.png');
 }
 
 tr:nth-child(even)>td:nth-child(even):not(#pieces) {
@@ -66,7 +66,7 @@ tr:nth-child(even)>td:nth-child(even):not(#pieces) {
 }
 
 tr:nth-child(even)>td:nth-child(odd):not(#pieces) {
-  background-image: url('art/field/fire-3.png');
+  background-image: url('art/field/fire.png');
 }
 
 td#chat {
