@@ -55,22 +55,22 @@ table {
 
 tr:nth-child(odd)>td:nth-child(odd):not(#pieces) {
   // background-image: url('art/field/green.png');
-  background-color: #900C3F;
+  background-color: #FFC300;
 }
 
 tr:nth-child(odd)>td:nth-child(even):not(#pieces) {
   // background-image: url('art/field/beige.png');
-  background-color: #FFC300;
+  background-color: #900C3F;
 }
 
 tr:nth-child(even)>td:nth-child(even):not(#pieces) {
   // background-image: url('art/field/green.png');
-  background-color: #900C3F;
+  background-color: #FFC300;
 }
 
 tr:nth-child(even)>td:nth-child(odd):not(#pieces) {
   // background-image: url('art/field/beige.png');
-  background-color: #FFC300;
+  background-color: #900C3F;
 }
 
 td#chat {
